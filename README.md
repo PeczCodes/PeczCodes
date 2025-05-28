@@ -1,7 +1,7 @@
 
-# Hi, I'm Reen 👋
+# Hi, I'm PeczCodes 👋
 
-I'm a passionate **Full-Stack Developer** and **AI Integrations Enthusiast** with a strong focus on building scalable, modern web applications and intelligent systems. I enjoy bridging the gap between frontend, backend, and machine learning to deliver impactful user experiences.
+I'm a **Full-Stack Developer** and **AI Integrations Enthusiast** with a strong focus on building scalable, modern web applications and intelligent systems. I enjoy bridging the gap between frontend, backend, and machine learning to deliver impactful user experiences.
 
 ---
 
@@ -17,52 +17,25 @@ I'm a passionate **Full-Stack Developer** and **AI Integrations Enthusiast** wit
 
 ## 🔧 Tech Stack
 
-| Frontend            | Backend          | AI/ML              | Tools & Platforms     |
-|---------------------|------------------|--------------------|----------------------|
-| React, Next.js      | Node.js, Express | Python, TensorFlow | Git, GitHub, Docker  |
-| TypeScript          | MongoDB, Prisma  | PyTorch, HuggingFace | VSCode, Postman      |
-| Tailwind CSS        | REST & GraphQL   | OpenAI APIs        | Linux, AWS           |
+| Frontend            | Backend          | AI/ML                  | Tools & Platforms     |
+|---------------------|------------------|------------------------|-----------------------|
+| React, Next.js      | Node.js, Express | Python, TensorFlow     | Git, GitHub, Docker   |
+| TypeScript          | MongoDB, Prisma  | PyTorch, HuggingFace   | VSCode, Postman       |
+| Tailwind CSS        | REST & GraphQL   | OpenAI APIs, LangChain | AWS, Vercel           |
 
 ---
 
 ## 📂 Featured Projects
 
-### [Movie Downloader App](https://github.com/pecz_codes/movie-downloader)  
+### [Movie Downloader App] 
 Curated API-driven app to find and download movies, showcasing fullstack integration and responsive UI.
 
-### [Notes App](https://github.com/pecz_codes/notes-app)  
-A modern notes application built with React and Express, featuring JWT authentication and offline support.
+### [Guess]
+A wordle-like puzzle with ai integrations and a fancy ui
 
-### [AI Mood-Based Recommender](https://github.com/pecz_codes/ai-mood-recommender)  
+### [AI Mood-Based Recommender]
 Next.js app that suggests books and movies based on your mood using AI-powered sentiment analysis.
 
----
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pecz_codes&show_icons=true&theme=dark&hide_title=true" alt="Pecz's GitHub stats" />
-</p>
-
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pecz_codes&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://linkedin.com/in/pecz" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/pecz_codes" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://pecz.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-%23FF6F61.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
----
 
 ## 📬 Contact Me
 
