@@ -43,11 +43,11 @@ I'm always open to collaborating on impactful full-stack projects, exploring AI/
 
 Feel free to reach out through any of the platforms below:
 
-- 📧 **Email**: [pecz.codes@gmail.com](mailto:pecz.codes@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/pecz](https://linkedin.com/in/pecz)
+- 📧 **Email**: [peczcodes@gmail.com](mailto:peczcodes@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/pecz](https://linkedin.com/in/peczcodes)
 - 🧠 **X (Twitter)**: [@pecz_codes](https://twitter.com/pecz_codes)
-- 💻 **Portfolio**: [pecz.dev](https://pecz.dev)
-- 💬 **Discord**: `pecz.codes`
+- 💻 **Portfolio**: [peczcodes.dev](https://pecz.dev)
+- 💬 **Discord**: `peczcodes`
 
 ---
 
