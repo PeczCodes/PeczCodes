@@ -1,7 +1,7 @@
 
 # Hi, I'm PeczCodes 👋
 
-I'm a **Full-Stack Developer** and **AI Integrations Enthusiast** with a strong focus on building scalable, modern web applications and intelligent systems. I enjoy bridging the gap between frontend, backend, and machine learning to deliver impactful user experiences.
+I'm a **Full-Stack Developer** who enjoys integrating **AI** into my workflow. I enjoy bridging the gap between frontend, backend, and machine learning to deliver impactful user experiences.
 
 ---
 
