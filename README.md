@@ -7,7 +7,7 @@ I'm a **Full-Stack Developer** who enjoys integrating **AI** into my workflow. I
 
 ## 🚀 About Me
 
-- Final-year Computer Science student and software developer
+- Final-year Computer Science student and Software Engineer
 - Skilled in React, Node.js, Express, Next.js, and databases (MongoDB, Prisma)
 - Exploring AI/ML tools to build smarter, more adaptive applications
 - Always eager to learn new technologies and contribute to open-source projects
