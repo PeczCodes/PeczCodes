@@ -1,4 +1,4 @@
-# Hi, I'm PeczCodes 👋
+# Hi, I'm PeczCodes
 
 Software Engineer focused on backend systems, scalable APIs, and fullstack product development.
 
@@ -6,7 +6,7 @@ I enjoy building real-world applications that solve practical problems — from 
 
 ---
 
-## 🧠 What I Do
+## What I Do
 
 - Design and build backend systems (NestJS, Node.js)
 - Develop fullstack applications using modern web technologies
@@ -16,7 +16,7 @@ I enjoy building real-world applications that solve practical problems — from 
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 ### Backend
 Node.js · NestJS · Express · PostgreSQL · Prisma · Redis
@@ -34,7 +34,7 @@ OpenAI APIs · LangChain (exploring practical use cases)
 
 ## 📌 Featured Projects
 
-### 🐾 VetsBridge (Flagship Project)
+### VetsBridge (Flagship Project)
 A veterinary telemedicine and marketplace platform connecting pet owners with veterinary professionals.
 
 - Consultation booking system
@@ -46,12 +46,8 @@ A veterinary telemedicine and marketplace platform connecting pet owners with ve
 
 ---
 
-### 🎬 Movie Downloader App
-Fullstack application integrating external APIs with a responsive UI for media discovery.
 
----
-
-### 🧩 Guess Game
+### Guess Game
 A Wordle-style puzzle game with interactive UI and experimental AI features.
 
 ---
