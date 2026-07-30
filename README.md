@@ -79,7 +79,7 @@ Designed to demonstrate modern backend architecture rather than just application
 
 ---
 
-### InsightAI *(In Progress)*
+### Insight *(In Progress)*
 
 An enterprise knowledge platform that enables organizations to search and interact with internal documentation using Retrieval-Augmented Generation (RAG).
 
