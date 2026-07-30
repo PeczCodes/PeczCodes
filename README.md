@@ -1,75 +1,121 @@
-# Hi, I'm PeczCodes
+# Etieno Aniekan
 
-Software Engineer focused on backend systems, scalable APIs, and fullstack product development.
+Software Engineer with a strong interest in backend engineering, distributed systems, and AI-powered applications.
 
-I enjoy building real-world applications that solve practical problems — from system design to deployment.
+I build production-oriented software that prioritizes reliability, maintainability, and scalability. While I work across the full stack, my primary focus is designing backend systems, APIs, asynchronous workflows, and the infrastructure that keeps applications running as they grow.
 
 ---
 
-## What I Do
+## About
 
-- Design and build backend systems (NestJS, Node.js)
-- Develop fullstack applications using modern web technologies
-- Work with databases and data modeling (PostgreSQL, Prisma)
-- Build and integrate REST APIs and system architectures
-- Explore AI integrations where they add real product value
+I enjoy solving practical engineering problems through thoughtful system design and clean architecture. My work spans authentication, caching, background processing, observability, payments, real-time communication, and AI integrations.
+
+Currently, I'm focused on:
+
+* Building scalable backend systems with NestJS and PostgreSQL
+* Designing production-ready architectures
+* Applying AI to solve real business problems
+* Continuously improving software reliability and developer experience
 
 ---
 
 ## Tech Stack
 
 ### Backend
-Node.js · NestJS · Express · PostgreSQL · Prisma · Redis
+
+* Node.js
+* NestJS
+* Express
+* PostgreSQL
+* Prisma
+* Redis
+* BullMQ
 
 ### Frontend
-React · Next.js · TypeScript · Tailwind CSS
 
-### Tools & Platforms
-Git · Docker · Postman · Vercel · AWS 
+* React
+* Next.js
+* TypeScript
+* Tailwind CSS
+* TanStack Query
+* Zustand
 
-### AI / Integration
-OpenAI APIs · LangChain (exploring practical use cases)
+### Infrastructure
+
+* Docker
+* AWS
+* Vercel
+* Render
+* Prometheus
+* Grafana
+
+### AI
+
+* OpenAI
+* LangChain
+* LangGraph
+* Pinecone
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### VetsBridge (Flagship Project)
-A veterinary telemedicine and marketplace platform connecting pet owners with veterinary professionals.
+### VetsBridge
 
-- Consultation booking system
-- Secure payment integration (Paystack)
-- Role-based architecture (vets, users, vendors)
-- Scalable backend design using NestJS
+A production-grade veterinary telemedicine platform built with a backend-first architecture.
 
-> Built as a production-style system focused on real-world architecture and workflows.
+Highlights include:
+
+* Secure JWT authentication with refresh token rotation
+* Real-time messaging and video consultations
+* Marketplace and payment processing
+* Background job processing with BullMQ
+* Redis caching and rate limiting
+* Transactional Outbox pattern
+* Role-based access control
+* Prometheus metrics and observability
+
+Designed to demonstrate modern backend architecture rather than just application features.
 
 ---
 
+### InsightAI *(In Progress)*
+
+An enterprise knowledge platform that enables organizations to search and interact with internal documentation using Retrieval-Augmented Generation (RAG).
+
+Key areas include:
+
+* Semantic search
+* Vector embeddings
+* AI-powered document retrieval
+* Background indexing pipelines
+* Streaming AI responses
+* Enterprise access control
+
+---
 
 ### Guess Game
-A Wordle-style puzzle game with interactive UI and experimental AI features.
+
+A modern Wordle-inspired web application built with Next.js and TypeScript, focusing on responsive UI, state management, and polished user experience.
 
 ---
 
-### 🤖 AI Mood-Based Recommender
-Next.js application that recommends books and movies based on user sentiment analysis.
+## Interests
+
+Outside of building applications, I'm particularly interested in:
+
+* Chess
+* Piano
+* Football
 
 ---
 
-## 📬 Contact
+## Connect
 
-I'm open to backend engineering roles, collaboration, and building impactful products.
+* LinkedIn: https://linkedin.com/in/etieno-aniekan
+* Email: [peczcodes@gmail.com](mailto:peczcodes@gmail.com)
 
-- Email: peczcodes@gmail.com  
-- LinkedIn: linkedin.com/in/peczcodes  
-- X (Twitter): @pecz_codes  
-- Portfolio: peczcodes.dev  
 
 ---
 
-## 🧭 Philosophy
-
-> Build systems that are simple, scalable, and maintainable.
-
-I care more about correctness, structure, and clarity than hype technologies.
+> Build software that continues to work as complexity grows.
