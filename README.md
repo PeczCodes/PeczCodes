@@ -8,7 +8,7 @@ I build production-oriented software that prioritizes reliability, maintainabili
 
 ## About
 
-I enjoy solving practical engineering problems through thoughtful system design and clean architecture. My work spans authentication, caching, background processing, observability, payments, real-time communication, and AI integrations.
+I like solving practical engineering problems through thoughtful system design and clean architecture. My work spans authentication, caching, background processing, observability, payments, real-time communication, and AI integrations.
 
 Currently, I'm focused on:
 
@@ -21,11 +21,19 @@ Currently, I'm focused on:
 
 ## Tech Stack
 
+### Languages
+
+* JavaScript
+* TypeScript
+* Go(Golang)
+
 ### Backend
 
 * Node.js
 * NestJS
 * Express
+* net/http
+* Chi
 * PostgreSQL
 * Prisma
 * Redis
@@ -79,24 +87,33 @@ Designed to demonstrate modern backend architecture rather than just application
 
 ---
 
-### Insight *(In Progress)*
+### PayChainz
 
-An enterprise knowledge platform that enables organizations to search and interact with internal documentation using Retrieval-Augmented Generation (RAG).
+An event-driven, ledger-backed distributed payments orchestration platform for executing, tracking, and reconciling transfers, payouts, and balances across multiple payment providers.
 
 Key areas include:
 
-* Semantic search
-* Vector embeddings
-* AI-powered document retrieval
-* Background indexing pipelines
-* Streaming AI responses
-* Enterprise access control
+* Consistent ledger and transaction state-machine engine
+* ACID transactions and concurrency controls
+* Idempotent request handling
+* Bounded timeouts and exponential backoff retries
+* Automated failure recovery and reconciliation workers
+* Multi-provider payment orchestration
 
 ---
 
-### Guess Game
+### Reviewz
 
-A modern Wordle-inspired web application built with Next.js and TypeScript, focusing on responsive UI, state management, and polished user experience.
+A multi-tenant customer feedback management infrastructure enabling organizations across hospitality, retail, healthcare, and corporate campuses to collect, route, resolve, and analyze feedback via dynamically managed QR touchpoints.
+
+Key areas include:
+
+* Idempotent event ingestion and atomic processing claims
+* Duplicate prevention across retries and repeated scans
+* Tenant-isolated data models and touchpoint routing
+* Structured issue resolution lifecycles
+* Operational analytics across physical locations
+* An enterprise knowledge platform that enables organizations to search and interact with internal documentation using Retrieval-Augmented Generation (RAG).
 
 ---
 
