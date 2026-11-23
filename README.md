@@ -1,6 +1,6 @@
 # Etieno Aniekan
 
-Software Engineer with a strong interest in backend engineering, distributed systems, and AI-powered applications.
+Software Engineer specializing in backend engineering, distributed systems, and AI-powered applications.
 
 I build production-oriented software that prioritizes reliability, maintainability, and scalability. While I work across the full stack, my primary focus is designing backend systems, APIs, asynchronous workflows, and the infrastructure that keeps applications running as they grow.
 
