@@ -113,7 +113,6 @@ Key areas include:
 * Tenant-isolated data models and touchpoint routing
 * Structured issue resolution lifecycles
 * Operational analytics across physical locations
-* An enterprise knowledge platform that enables organizations to search and interact with internal documentation using Retrieval-Augmented Generation (RAG).
 
 ---
 
